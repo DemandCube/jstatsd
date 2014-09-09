@@ -13,5 +13,5 @@ public class Tester {
     }
 
     @Test
-    public void testFailUnitTest() { Assert.assertEquals(1,2);}
+    public void testFailUnitTest() { Assert.assertEquals(1,1);}
 }
